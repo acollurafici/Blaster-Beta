@@ -1,7 +1,7 @@
 # Blaster-Beta
 ## V2 Release Notes
 
-Lower 
+###Lower 
 - Revised rail for better printing
 - New Front Mounting Point
 - Added space for Micro Flycore wiring.
