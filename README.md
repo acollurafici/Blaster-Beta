@@ -1,7 +1,7 @@
 # Blaster-Beta
 ## V2 Release Notes
 
-###Lower 
+**Lower**
 - Revised rail for better printing
 - New Front Mounting Point
 - Added space for Micro Flycore wiring.
@@ -9,22 +9,22 @@
 - Trigger Switch Plate
 - Increase Mag Well tolerance, Mags should drop free now.
 - 
-All Front Uppers
+**All Front Uppers**
 - Heatset insert Holes for Picatinny Rails
 - Moved Lower Mounting Hole.
 - Added More space for Micro wheels
 - Should be printed with Cages Up.
 
-All Rear Uppers
+**All Rear Uppers**
 - Heatset insert Holes for Picatinny Rails
 - Revised Channel Connection
 - Added a Variation with a Window for the Printable Logo
 
-Picatinny Rails
+**Picatinny Rails**
 - Updated holes for Heatset Inserts
 - Should be printed with Cages Up.
 
-NEW
+**NEW**
 - Alternate Foregrips
     - Angled Foregrip for Short Version
     - Handstop Lower Picatinny for Short Version
