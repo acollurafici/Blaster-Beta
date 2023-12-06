@@ -1,4 +1,8 @@
 # Blaster-Beta
+
+## V2 Change Log
+- 12.5 - Moved all accessories to the Tac-Pack Folder. Updated Build Guide for V2.
+
 ## V2 Release Notes
 
 **Lower**
